@@ -1,0 +1,36 @@
+#name{
+  color: #98E5D3;
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 72px;
+  text-align: center;
+}
+
+#me {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #FF104E;
+  font-size: 52px;
+}
+#titles, #acts, #projects {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #A6A0E8;
+  font-size: 36px;
+}
+
+#email, #paragraph, #clubs {
+   font-size: 24px;
+   font-family: 'Share Tech Mono', monospace;
+ }
+
+ .about  {
+   text-align: center;
+ }
+
+body {
+  background-color: white;
+}
+
+img {
+    border-radius: 50%;
+    height: 300px;
+    weight: 100%;
+}
